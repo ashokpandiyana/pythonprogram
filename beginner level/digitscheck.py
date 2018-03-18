@@ -1,2 +1,5 @@
 a=input("enter the input")
-print (a.isdigit())
+if (a.isdigit()):
+  print ("True")
+else:
+  print ("it is alphabe
