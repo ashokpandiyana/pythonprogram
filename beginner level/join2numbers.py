@@ -1,3 +1,3 @@
-a=(input("enter the number"))
-b=(input("enter the number"))
-print (a+''+b)
+N=(input("enter the number"))
+K=(input("enter the number"))
+print (N+''+K)
