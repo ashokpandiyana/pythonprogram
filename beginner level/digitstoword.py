@@ -1,5 +1,5 @@
 a=int(input("enter the number"))
-if(a>1 and a<10):
+if(a>=1 and a<=10):
   if(a==1):
     print("one")
   elif(a==2):
@@ -22,5 +22,3 @@ if(a>1 and a<10):
     print("ten")
 else:
   print("invalid")
-  
-  
